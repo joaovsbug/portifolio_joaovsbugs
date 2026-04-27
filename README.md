@@ -8,7 +8,7 @@ Portifólio de projetos de tecnologia do João Victor Olivera Fernandes
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-fernandes-ofc01)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.fernandes_06@icloud.com)
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](file:///C:/Users/JOAOVICTOROLIVEIRAFE/Downloads/Curri%CC%81culo%20-%20Joa%CC%83o%20Victor%20Oliveira%20Fernandes.pdf)
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1-6dCg6NUAFZNqMmg3A3bxWHWOQbRIuAy/view?usp=drive_link)
  
 ---
  
