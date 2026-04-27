@@ -8,17 +8,16 @@ Portifólio de projetos de tecnologia do João Victor Olivera Fernandes
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([LINK_DO_SEU_LINKEDIN](https://www.linkedin.com/in/joao-fernandes-ofc01))
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.fernandes_06@icloud.com)
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE)
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](file:///C:/Users/JOAOVICTOROLIVEIRAFE/Downloads/Curri%CC%81culo%20-%20Joa%CC%83o%20Victor%20Oliveira%20Fernandes.pdf)
  
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituição]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento Backend / Análise de Dados].
+Atualmente cursando o [2º] período de Analise de Desenvolvimento de Software na Universidade Cidade de São Paulo. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Segu.
  
-* **Habilidades Técnicas:** [Ex: Python, Java, SQL, AWS, Docker].
-* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação Científica/Estágio] onde desenvolvi [resultado principal].
- 
+* **Habilidades Técnicas:** [CSS,HTML 5,SQL e Python].
+* **Habilidades Socioemocionais:** Trabalho em equipe, Organização e Gestão de Tempo, pensamento crítico e empatia.
+
 ---
  
 ### 🛠 Minhas Ferramentas Favoritas
