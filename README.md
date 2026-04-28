@@ -1,4 +1,4 @@
-# portifolio_joaovsbugs
+# portifolio_jjoaofernandes
 Portifólio de projetos de tecnologia do João Victor Olivera Fernandes
 # João Victor Oliveira Fernandes
 > Estudante de Analise e Desenvolvimento de Software
